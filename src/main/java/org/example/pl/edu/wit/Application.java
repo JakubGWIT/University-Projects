@@ -1,4 +1,4 @@
-package pl.edu.wit;
+package org.example.pl.edu.wit;
 
 import lombok.Data;
 import org.springframework.boot.SpringApplication;

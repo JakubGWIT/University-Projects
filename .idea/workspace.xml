@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
+    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DefaultTicketFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DocumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleBoeingAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleDefaultDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleSeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWroAirport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665821612971</updated>
       <workItem from="1665821614642" duration="4017000" />
-      <workItem from="1667030746204" duration="5398000" />
+      <workItem from="1667030746204" duration="5830000" />
     </task>
     <servers />
   </component>

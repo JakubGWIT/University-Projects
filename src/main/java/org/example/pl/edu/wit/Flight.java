@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.Set;
 
-@Data
+@Data(staticConstructor = "create")
 public class Flight {
     private final Airport to;
     private final Airplane airplane;

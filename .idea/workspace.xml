@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/SeatType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/DefaultTicketFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/TicketFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DefaultTicketFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DocumentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleBoeingAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleDefaultDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleSeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawAirport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWroAirport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Ticket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +36,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -40,28 +56,69 @@
     <option name="flattenPackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "dfecf32f8c97b45485189a165ed0835f"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.edu.wit" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.pl.edu.wit" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.pl.edu.wit" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn compile" />
+      <command value="mvn compile -X" />
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DefaultTicketFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zajecia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pl.edu.wit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pl.edu.wit" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pl.edu.wit.DefaultTicketFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DefaultTicketFactoryTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +128,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665821612971</updated>
-      <workItem from="1665821614642" duration="3412000" />
+      <workItem from="1665821614642" duration="4017000" />
+      <workItem from="1667030746204" duration="5158000" />
     </task>
     <servers />
   </component>

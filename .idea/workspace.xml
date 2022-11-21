@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DefaultTicketFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DocumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleAirport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleBoeingAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleDefaultDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleSeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawAirport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWroAirport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,25 +36,6 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "dfecf32f8c97b45485189a165ed0835f"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.edu.wit" />

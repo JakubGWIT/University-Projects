@@ -14,4 +14,5 @@ public class Airplane {
     private final Map<SeatType, Float> priceModifiers;
     private final AirplaneType type;
     private final Set<Seat> seats;
+    private final String cos;
 }

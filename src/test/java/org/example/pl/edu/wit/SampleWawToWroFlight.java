@@ -19,13 +19,14 @@ public class SampleWawToWroFlight {
     public static final BigDecimal FLIGHT_WAW_WRO_BOEING_BASE_CONST = BigDecimal.valueOf(100.0);
 
     public static final Flight WAW_WRO_BOEING_FLIGHT = Flight.create(
-            AIRPORT_WAW,
+
             AIRPORT_WRO,
             AIRPLANE_BOEING,
             FLIGHT_WAW_WRO_BOEING_DATE,
-            FLIGHT_WAW_WRO_BOEING_BOARDING,
             FLIGHT_WAW_WRO_BOEING_BASE_CONST,
+            FLIGHT_WAW_WRO_BOEING_BOARDING,
             FLIGHT_WAW_WRO_BOEING_NUMBER,
+            AIRPORT_WAW,
             AIRPLANE_BOEING_TAKEN_SEATS
     );
 

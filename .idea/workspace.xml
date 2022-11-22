@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
 =======
     <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" afterDir="false" />
     </list>
 >>>>>>> 21d015f78c06962abdb2e2e99ed0e8165f79f9af
+=======
+    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
+>>>>>>> 35b155b29eb97cc1a70bae4144127888098b2861
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,8 +130,12 @@
       <workItem from="1669074532593" duration="2947000" />
 =======
       <workItem from="1669074532593" duration="675000" />
+<<<<<<< HEAD
       <workItem from="1669076768257" duration="642000" />
 >>>>>>> 21d015f78c06962abdb2e2e99ed0e8165f79f9af
+=======
+      <workItem from="1669076768257" duration="1303000" />
+>>>>>>> 35b155b29eb97cc1a70bae4144127888098b2861
     </task>
     <servers />
   </component>

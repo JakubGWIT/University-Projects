@@ -11,7 +11,7 @@ import java.util.Set;
 @Builder
 public class Airplane {
     private final String code;
-    private final Map<SeatType, Float> primeModifier;
+    private final Map<SeatType, Float> priceModifiers;
     private final AirplaneType type;
     private final Set<Seat> seats;
 }

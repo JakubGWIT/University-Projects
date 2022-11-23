@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
+    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneCreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneFactoryStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/AirplaneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/BoeingAieplaneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/DefaultAirplaneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/BoeingAirplaneFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/DefaultAirplaneServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleBoeingAirplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleBoeingAirplane.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +28,9 @@
       <list>
         <option value="AnnotationType" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +67,8 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "spring.configuration.checksum": "5c203abb5e30cfd344744019332525e4"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -74,6 +89,7 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn compile -X" />
+      <command value="mvn clean" />
       <command value="mvn compile" />
     </option>
   </component>
@@ -112,7 +128,8 @@
       <workItem from="1667030746204" duration="5830000" />
       <workItem from="1669073002459" duration="1176000" />
       <workItem from="1669074532593" duration="675000" />
-      <workItem from="1669076768257" duration="1303000" />
+      <workItem from="1669076768257" duration="2405000" />
+      <workItem from="1669239479527" duration="3121000" />
     </task>
     <servers />
   </component>

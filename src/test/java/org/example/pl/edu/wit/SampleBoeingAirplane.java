@@ -18,11 +18,11 @@ public class SampleBoeingAirplane extends SampleAirplane {
             Map.entry(SeatType.FIRST, 1.4F)
     );
     public static final Set<Seat> AIRPLANE_BOEING_TAKEN_SEATS = Set.of(
-            createBusinessClass("BB5"),
-            createBusinessClass("BB10"),
-            SampleSeat.creatEconomyClass("BE14"),
-            SampleSeat.creatEconomyClass("BE16"),
-            SampleSeat.creatEconomyClass("BE15")
+            createBusinessClass("B5"),
+            createBusinessClass("B10"),
+            SampleSeat.creatEconomyClass("E14"),
+            SampleSeat.creatEconomyClass("E16"),
+            SampleSeat.creatEconomyClass("E15")
     );
 
     public static final Airplane AIRPLANE_BOEING = createAirplane(AIRPLANE_BOEING_CODE, AIRPLANE_BOEING_TYPE, AIRPLANE_BOEING_SEATS, AIRPLANE_BOEING_PRICES);

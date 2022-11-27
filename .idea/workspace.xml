@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
-=======
     <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pl/edu/wit/Airport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pl/edu/wit/SampleWawToWroFlight.java" afterDir="false" />
     </list>
->>>>>>> 21d015f78c06962abdb2e2e99ed0e8165f79f9af
-=======
-    <list default="true" id="dff2cb03-b17b-474d-a9a5-1808b4ebc64d" name="Changes" comment="" />
->>>>>>> 35b155b29eb97cc1a70bae4144127888098b2861
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,19 +45,9 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/jgurb/OneDrive/Pulpit/java 3 semestr/Projekt-3-sem/projekt-tzi03is2-JakubGWIT",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pl.edu.wit" />
@@ -92,7 +69,22 @@
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.DefaultTicketFactoryTest (1)">
+    <configuration name="DefaultTicketFactoryTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Zajecia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pl.edu.wit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pl.edu.wit" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pl.edu.wit.DefaultTicketFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DefaultTicketFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projekt-tzi03is2-JakubGWIT" />
       <extension name="coverage">
@@ -111,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DefaultTicketFactoryTest (1)" />
         <item itemvalue="JUnit.DefaultTicketFactoryTest" />
       </list>
     </recent_temporary>
@@ -126,16 +119,8 @@
       <workItem from="1665821614642" duration="4017000" />
       <workItem from="1667030746204" duration="5830000" />
       <workItem from="1669073002459" duration="1176000" />
-<<<<<<< HEAD
-      <workItem from="1669074532593" duration="2947000" />
-=======
       <workItem from="1669074532593" duration="675000" />
-<<<<<<< HEAD
-      <workItem from="1669076768257" duration="642000" />
->>>>>>> 21d015f78c06962abdb2e2e99ed0e8165f79f9af
-=======
       <workItem from="1669076768257" duration="1303000" />
->>>>>>> 35b155b29eb97cc1a70bae4144127888098b2861
     </task>
     <servers />
   </component>
